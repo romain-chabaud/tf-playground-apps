@@ -1,0 +1,9 @@
+/.terraform
+.terraform.lock.hcl
+terraform.tfstate*
+terraform.tfvars
+
+/.vscode
+/.idea
+
+/java-docs-samples
